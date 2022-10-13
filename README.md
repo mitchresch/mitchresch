@@ -5,7 +5,7 @@
 ### [Coder](https://github.com/mitchresch)
 ### [Aspiring Influencer](https://www.youtube.com/channel/UCJ7jBsIxoeUJrKkd8VCqKHA)
 
-I'm 27 years old and building my online presence. I'm open to tackling new challenges, making new connections, and helping out where I can. Spreading my knowledge and sharing my experiences with whoever's interested. If that's something you may be interested in, hit the follow button and connect with me elsewhere too!
+I'm 27 years old and building my online presence. Constant learner. Always tackling new challenges, making new connections, and building new things. Spreading my knowledge and sharing my experiences to help others. If that's something you may be interested in, hit the follow button and connect with me elsewhere too!
 
 ## Technologies and Tools
 
