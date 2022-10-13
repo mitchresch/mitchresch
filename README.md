@@ -5,9 +5,12 @@
 ### [Coder](https://github.com/mitchresch)
 ### [Aspiring Influencer](https://www.youtube.com/channel/UCJ7jBsIxoeUJrKkd8VCqKHA)
 
+I'm 27 years old and building my online presence. I'm open to tackling new challenges, making new connections, and helping out where I can. Spreading my knowledge and sharing my experiences with whoever's interested. If that's something you may be interested in, hit the follow button and connect with me elsewhere too!
+
 ## Technologies and Tools
 
-## Connect with me!
+
+## Connect with me
 [<img align="left" alt="MitchResch | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="MitchResch | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="MitchResch | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -19,8 +22,6 @@
 [instagram]: https://www.instagram.com/mitchresch/
 [linkedin]: https://linkedin.com/in/mitchresch
 [gitlab]: https://gitlab.com/mitchresch
-
-
 
 <!--
 **mitchresch/mitchresch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
