@@ -1,6 +1,6 @@
 # Hi, I'm Mitch!
 
-# [Systems Software Engineer](https://www.linkedin.com/in/mitch-resch/), [Coder](https://github.com/mitchresch), [Aspiring Influencer](https://www.youtube.com/channel/UCJ7jBsIxoeUJrKkd8VCqKHA)*Launch Date TBA
+# [Systems Software Engineer](https://www.linkedin.com/in/mitch-resch/), [Coder](https://github.com/mitchresch), [Aspiring Influencer](https://www.youtube.com/channel/UCJ7jBsIxoeUJrKkd8VCqKHA)
 
 <h2> 🤳 Connect with me:</h2>
 
