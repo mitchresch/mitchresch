@@ -1,6 +1,9 @@
-# Hi, I'm Mitch!
+# Hey, I'm Mitch. Welcome to My Profile!
 
-# [Systems Software Engineer](https://www.linkedin.com/in/mitch-resch/), [Coder](https://github.com/mitchresch), [Aspiring Influencer](https://www.youtube.com/channel/UCJ7jBsIxoeUJrKkd8VCqKHA)
+## About Me
+### [Systems Software Engineer](https://www.linkedin.com/in/mitch-resch/)
+### [Coder](https://github.com/mitchresch)
+### [Aspiring Influencer](https://www.youtube.com/channel/UCJ7jBsIxoeUJrKkd8VCqKHA)
 
 ## Connect with me!
 [<img align="left" alt="MitchResch | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
