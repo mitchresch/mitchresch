@@ -2,8 +2,7 @@
 
 # [Systems Software Engineer](https://www.linkedin.com/in/mitch-resch/), [Coder](https://github.com/mitchresch), [Aspiring Influencer](https://www.youtube.com/channel/UCJ7jBsIxoeUJrKkd8VCqKHA)
 
-<h2> 🤳 Connect with me:</h2>
-
+## Connect with me!
 [<img align="left" alt="MitchResch | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="MitchResch | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="MitchResch | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
