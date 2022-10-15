@@ -3,7 +3,6 @@
 ## About Me
 ### [Systems Software Engineer](https://www.linkedin.com/in/mitch-resch/)
 ### [Coder](https://github.com/mitchresch)
-### [Aspiring Content Creator](https://www.youtube.com/channel/UCJ7jBsIxoeUJrKkd8VCqKHA)
 
 27 years old and building my online presence. Constant learner. Always tackling new challenges, making new connections, and building new things. Spreading  knowledge and sharing experience.
 
