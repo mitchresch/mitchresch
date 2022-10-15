@@ -1,4 +1,4 @@
-# Hey, I'm Mitch. Welcome to My Profile!
+# Mitch Resch
 
 ## About Me
 ### [Systems Software Engineer](https://www.linkedin.com/in/mitch-resch/)
