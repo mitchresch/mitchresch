@@ -6,8 +6,6 @@
 
 27 years old and building my online presence. Constant learner. Always tackling new challenges, making new connections, and building new things. Spreading  knowledge and sharing experience.
 
-If that's something you may be interested in, hit the follow button and connect with me elsewhere too!
-
 ## Technologies and Tools
 
 
@@ -23,18 +21,3 @@ If that's something you may be interested in, hit the follow button and connect 
 [instagram]: https://www.instagram.com/mitchresch/
 [linkedin]: https://linkedin.com/in/mitchresch
 [gitlab]: https://gitlab.com/mitchresch
-
-<!--
-**mitchresch/mitchresch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
